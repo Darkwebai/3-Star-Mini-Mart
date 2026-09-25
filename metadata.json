@@ -1,0 +1,6 @@
+{
+  "name": "3 Stars Mini Mart POS",
+  "description": "Point of Sale (POS) system with live customer-facing price display, inventory, sales tracking, and Google Sheets integration designed in a bold red, black, and green aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
